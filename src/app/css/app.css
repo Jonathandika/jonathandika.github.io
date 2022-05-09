@@ -891,7 +891,7 @@ body {
 09. Section Blog
 ------------------------------------------------------------------- */
 .yb-blog-item {
-  border-radius: 4px;
+  border-radius: 10px;
   height: 320px;
   background-color: #000;
   position: relative;
